@@ -10,9 +10,8 @@ This project is my attempt on using ICM7555 timer IC from Intersil (now Renesas)
 - Resistors:
     - R1: [33k ohm](https://www.tokopedia.com/rajaavr/10pcs-resistor-1-4w-5k6-6k8-8k2-10k-12k-15k-18k-20k-22k-27k-33k-ohm-33k-ohm)
     - R2: [120k ohm](https://www.tokopedia.com/elantech/resistor-yageo-120k-1-4w-1-0-25w-1-4-w-120-kilo-ohm-elantech)
-    - R-output: [1k ohm](https://www.tokopedia.com/elantech/resistor-yageo-1k-1-4w-1-0-25w-1-k-1-4-w-1-kilo-ohm-elantech)
 - Capacitors:
-    - [10 μF](https://www.tokopedia.com/elantech/elco-10uf-50v-panasonic-nhg-10-uf-5x12mm-kapasitor-capacitor-elantech)
+    - [2.2 μF](www.tokopedia.com/starlectric/kapasitor-elco-capasitor-2-2-uf-2-2uf-50v)
 - [Red LED 5mm](https://www.tokopedia.com/starlectric/led-5mm-merah-5pcs-pack)
 - Battery:
     - [CR2032 3V battery](https://www.tokopedia.com/v-king/baterai-energizer-cr2032-bp2)
